@@ -8,8 +8,8 @@
 
 .slide-image {
     width: 800px;
-    height: 600px;
     border-radius: 10px;
+    object-fit: fill;
 }
 .right-arrow {
     position: absolute;
